@@ -31,7 +31,7 @@ Next, the images of the four hemispheres.
 
 Finally the updated Mission to Mars webpage
 
-![Updated_Scraping](https://github.com/ljohnson1212/Mission_to_Mars/commit/cac23c984df31d25ffcf72d9d18ae7ab7061c697)
+![Updated_Scraping](https://github.com/ljohnson1212/Mission_to_Mars/blob/main/images/Updated_Scraping1.png)
 
 
 
